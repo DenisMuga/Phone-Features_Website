@@ -97,6 +97,15 @@ nav{
     height: 40%;
     transform: translateY(-50%);
     z-index: 1;
-
-
+}
+.controls{
+    position: absolute;
+    right: 20%;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+}
+.controls img{
+    width: 60px;
+    height: 10%;
 }
