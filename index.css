@@ -61,6 +61,13 @@ nav{
 }
 .feature{
     position: absolute;
+    display: flex;
+}
+.feature div{
+    margin-left: 30px;
+}
+.feature div p{
+    margin-top: 10px;
 }
 .one{
     top: 400px;
@@ -81,4 +88,13 @@ nav{
     bottom: 80px;
     right: 350px;
     color: white;
+}
+.mobile{
+    width: 200px;
+    position: absolute;
+    top: 33%;
+    left: 40%;
+    height: 40%;
+
+
 }
