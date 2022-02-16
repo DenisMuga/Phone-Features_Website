@@ -54,7 +54,9 @@ nav{
     top: 0;
     left: 0;
     border-radius: 50%;
-    background: #ccc;
+    transform: rotate(0deg);
+    transition: 1s;
+    /* background: #ccc; */
 }
 .feature img{
     width: 70px;
@@ -104,8 +106,17 @@ nav{
     top: 50%;
     transform: translateY(-50%);
     color: white;
+    text-align: center;
 }
 .controls img{
     width: 60px;
     height: 10%;
+}
+#UpBtn{
+    cursor: pointer;
+    /* transform: rotate(180deg); */
+}
+#DownBtn{
+    cursor: pointer;
+    /* transform: rotate(180deg); */
 }
