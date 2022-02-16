@@ -65,16 +65,20 @@ nav{
 .one{
     top: 400px;
     right: 50px;
+    color:white;
 }
 .two{
     top: 150px;
     left: 450px;
+    color: white;
 }
 .three{
     bottom: 450px;
     left: 50px;
+    color: white;
 }
 .four{
     bottom: 80px;
-    right: 500px;
+    right: 350px;
+    color: white;
 }
