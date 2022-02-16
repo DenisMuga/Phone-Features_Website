@@ -43,7 +43,7 @@ nav{
     height: 1000px;
     position: absolute;
     top: -1%;
-    left: -15%;
+    left: 0;
     translate: translateY(-50%);
 
 }
@@ -73,7 +73,7 @@ nav{
     color: white;
 }
 .three{
-    bottom: 450px;
+    bottom: 300px;
     left: 50px;
     color: white;
 }
