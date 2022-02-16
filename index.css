@@ -73,23 +73,26 @@ nav{
 }
 .one{
     top: 400px;
-    right: 50px;
+    right: 120px;
     color:white;
 }
 .two{
-    top: 150px;
-    left: 450px;
+    top: 80px;
+    left: 400px;
     color: white;
+    transform: rotate(-90deg);
 }
 .three{
     bottom: 300px;
     left: 50px;
     color: white;
+    transform: rotate(-180deg);
 }
 .four{
-    bottom: 80px;
-    right: 350px;
+    bottom: 40px;   
+    right: 400px;
     color: white;
+    transform: rotate(-270deg);
 }
 .mobile{
     width: 250px;
